@@ -1,11 +1,11 @@
 <h1 align="center">Hi Folks, I'm Mohd Saddam</h1>
-<h3 align="center">I'm working as a Senior Python Backend developer using Django, Flask, and NodeJS). I'm based in India, New Delhi.I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍 I really enjoy learning new technology ML and AI. I also enjoy Cloud Services as a backend.
-A hard-working person who loves to write clean and scalable code using the latest tech stack. Always hungry for learning new things.
+<h3 align="center">I'm working as a Senior Python Backend developer using Django, Flask, and NodeJS). I'm based in India, New Delhi. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍 I really enjoy learning new technology ML and AI. I also enjoy Cloud Services as a backend.
+A hard-working person who loves to write clean and scalable code using the latest tech stack. Always hungry to learn new things.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammad-saddam-75bb97ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammad Saddam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohd-saddam93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammad Saddam" height="30" width="40" /></a>
 </p>
 
 
